@@ -25,12 +25,7 @@ mso-font-kerning:0pt'>Alberch, P. “From Genes to Phenotype: Dynamical Systems
 and Evolvability.” <i>Genetica</i> 84, no. 1 (May 1, 1991): 5–11.
 https://doi.org/10.1007/BF00123979.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-indent:-.5in;line-height:normal;mso-pagination:none;
-mso-layout-grid-align:none;text-autospace:none'><span style='font-family:"Times New Roman",serif;
-mso-font-kerning:0pt'>Assembly, United Nations General. <i>Universal
-Declaration of Human Rights</i>. Department of State, United States of America,
-1949.<o:p></o:p></span></p>
+
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-indent:-.5in;line-height:normal;mso-pagination:none;
@@ -216,13 +211,6 @@ https://doi.org/10.1126/science.1125339.<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-indent:-.5in;line-height:normal;mso-pagination:none;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-family:"Times New Roman",serif;
-mso-font-kerning:0pt'>Office for Civil Rights, HHS. “Standards for Privacy of
-Individually Identifiable Health Information. Final Rule.” <i>Federal Register</i>
-67, no. 157 (August 14, 2002): 53181–273.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-indent:-.5in;line-height:normal;mso-pagination:none;
-mso-layout-grid-align:none;text-autospace:none'><span style='font-family:"Times New Roman",serif;
 mso-font-kerning:0pt'>Rebollo-Monedero, David, Jordi Forné, and Josep
 Domingo-Ferrer. “From T-Closeness to PRAM and Noise Addition Via Information
 Theory.” In <i>Privacy in Statistical Databases</i>, edited by Josep
@@ -293,6 +281,20 @@ mso-font-kerning:0pt'>Tryka, Kimberly A., Luning Hao, Anne Sturcke, Yumi Jin,
 Zhen Y. Wang, Lora Ziyabari, Moira Lee, et al. “NCBI’s Database of Genotypes
 and Phenotypes: dbGaP.” <i>Nucleic Acids Research</i> 42, no. D1 (January 1,
 2014): D975–79. https://doi.org/10.1093/nar/gkt1211.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-indent:-.5in;line-height:normal;mso-pagination:none;
+mso-layout-grid-align:none;text-autospace:none'><span style='font-family:"Times New Roman",serif;
+mso-font-kerning:0pt'>United Nations General Assembly. <i>Universal
+Declaration of Human Rights</i>. Department of State, United States of America,
+1949.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-indent:-.5in;line-height:normal;mso-pagination:none;
+mso-layout-grid-align:none;text-autospace:none'><span style='font-family:"Times New Roman",serif;
+mso-font-kerning:0pt'>US HHS Office for Civil Rights. “Standards for Privacy of
+Individually Identifiable Health Information. Final Rule.” <i>Federal Register</i>
+67, no. 157 (August 14, 2002): 53181–273.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-indent:-.5in;line-height:normal;mso-pagination:none;
